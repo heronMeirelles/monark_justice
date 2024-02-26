@@ -1,0 +1,1 @@
+console.log("variaveis em JavaScript");
